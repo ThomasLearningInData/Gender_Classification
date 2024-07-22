@@ -5,7 +5,7 @@ Image data can be downloaded from Kaggle:
 
 https://www.kaggle.com/datasets/ashwingupta3012/male-and-female-faces-dataset/data?select=Male+and+Female+face+dataset
 
-Model Performance:
+###Model Performance:###
 
 ![output2](https://github.com/user-attachments/assets/485fd37a-2371-4e37-bce1-646301c2f084)
 
